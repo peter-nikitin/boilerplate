@@ -1,0 +1,22 @@
+{
+  "name": "tmlpt_prjct",
+  "description": "A start template for front end prjct",
+  "main": "index.js",
+  "authors": [
+    "Petr Nikitin"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+   "normalize.css": "*",
+   "jquery": "2.*"
+ }
+}
